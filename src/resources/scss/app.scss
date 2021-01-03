@@ -1,0 +1,14 @@
+@import 'variables';
+
+h1{
+    color:$red-color;
+}
+#nav {
+    background-color:#FFF;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+#nav .navbar{
+    background-color:#FFF!important;
+}
