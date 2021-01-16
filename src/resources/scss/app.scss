@@ -1,14 +1,16 @@
 @import 'variables';
 
-h1{
-    color:$red-color;
+.card-course-item{
+    margin-top:16px;
 }
-#nav {
-    background-color:#FFF;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
+.avatar{
+    width:35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-right: 10px;
 }
-#nav .navbar{
-    background-color:#FFF!important;
+.checkbox-select-all-options{
+    width: 170px;
+    margin: 0px 10px;
+  
 }
